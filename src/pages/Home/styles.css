@@ -1,3 +1,15 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+strong {
+    color: white
+}
+
 .container {
     display: flex;
     align-items: center;
@@ -40,7 +52,7 @@
     padding: 24px;
     font-weight: 700;
 
-    background: palevioletred;
+    background: #735bf2;
     color: white;
 
     border-radius: 5px;
